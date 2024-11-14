@@ -1,6 +1,6 @@
 # Trabajo Practico Especial FCD
 
-Este repositorio contiene un análisis de calidad de agua del rio de la plata en un archivo `.ipynb`. Las instrucciones a continuación guiarán a los usuarios para configurar el entorno, instalar los requerimientos y ejecutar el archivo en su IDE fde preferencia.
+Este repositorio contiene un análisis de calidad de agua del rio de la plata en un archivo `.ipynb`. Las instrucciones a continuación guiarán a los usuarios para configurar el entorno, instalar los requerimientos y ejecutar el archivo en su IDE de preferencia.
 
 ## Requisitos Previos
 
