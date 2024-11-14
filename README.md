@@ -29,7 +29,7 @@ Clona este repositorio en tu máquina local. Abre una terminal y ejecuta:
 
 ```bash
 git clone https://github.com/MaximoReynoso/TrabajoEspecial.git
-cd tu-repositorio
+cd TrabajoEspecial
 ```
 
 ### 2. Crear un Entorno Virtual (Opcional pero Recomendado)
