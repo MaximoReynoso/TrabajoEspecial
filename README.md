@@ -10,7 +10,7 @@ Este repositorio contiene un análisis de calidad de agua del rio de la plata en
     python --version
     ```
 
-2. **pip**: pip debe estar instalado junto con Python:
+2. **pip**: pip debe estar instalado por defecto junto con Python:
 
 
 3. **IDE**: Puedes ejecutar el archivo `.ipynb` en cualquier IDE compatible con Jupyter Notebooks, como:
